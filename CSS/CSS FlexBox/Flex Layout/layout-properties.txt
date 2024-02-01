@@ -1,0 +1,46 @@
+//https://appbrewery.github.io/flex-layout/
+//https://appbrewery.github.io/flexboxfroggy/
+
+//1) order
+
+order: 0;    ->        applied on   child (flex items)
+order: 1; 
+order: 2; 
+
+by default order of all the items is 0
+
+//2) Wrap
+
+flex-wrap:nowrap;  //by default   ->        applied on parent (container)
+flex-wrap:wrap;    //move all the elements that dont have enough space to fit on top line will go to next line
+
+3) justify-content:flex-start;  ->        applied on parent (container)
+
+justify-content:flex-end;
+justify-content:center;
+justify-content:space-between;
+justify-content:space-around;
+justify-content:space-evenly;
+
+4) align-items:flex-start;  ->        applied on parent (container)
+
+//first we need to set height of the container
+//aligns items across cross-axis
+
+align-items:flex-end; 
+align-items:flex-start; 
+align-items:center; 
+align-items:baseline; 
+align-items:flex-start; 
+align-items:stretch; 
+
+
+//to only align one item at top
+//we can apply 
+
+align-self-start;    -> applied on child
+
+
+
+
+

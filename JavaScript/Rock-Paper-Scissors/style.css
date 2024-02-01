@@ -1,0 +1,36 @@
+body{
+    background-color:#2E97A7;
+}
+h1{
+    text-align: center;
+    font-size: 4rem;
+    color:#E9B824;
+    font-family: 'Lobster', cursive;
+}
+p{
+    font-size: 2rem;
+    font-family: 'Lobster', cursive;
+
+}
+img{
+    width: 200px;
+
+}
+.container {
+    width: 70%;
+    margin: auto;
+    text-align: center;
+  }
+.emoji{
+    display: inline-block;
+    margin: 30px;
+    text-align: center;  
+}
+
+footer {
+    margin-top: 5%;
+    color: #EEEEEE;
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+  
+  }

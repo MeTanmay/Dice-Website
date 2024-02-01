@@ -1,0 +1,44 @@
+.container{
+    margin:  auto ;
+    text-align: center;
+    width: 70%;
+}
+.dice{
+    display: inline-block;
+    text-align: center;
+}
+.box{
+    width: 50%;
+    margin: auto;
+    border: solid 5px #000000;
+}
+
+body{
+    background-color: rgb(81, 222, 168);
+}
+h1{
+    margin: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    text-shadow: 5px 0 #232931;
+    color:rgb(55, 83, 206);
+    font-size: 6rem;
+}
+p{
+    font-size: 2rem;
+    color:rgb(55, 83, 206);
+    font-family: 'Indie Flower', cursive;
+    border: #000000;
+
+}
+footer{
+    font-size: 2rem;
+    position: absolute;
+    right: 200px;
+    margin-top: 5%;
+    font-family: 'Indie Flower', cursive;
+    color: #fc4b4b;
+}
+img{
+    width: 80%;
+    
+}

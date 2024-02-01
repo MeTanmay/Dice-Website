@@ -1,0 +1,9 @@
+.ABC{
+    color:red;
+}
+#main{
+    color:green;
+}
+p[draggable="false"]{
+    color:yellow;
+}

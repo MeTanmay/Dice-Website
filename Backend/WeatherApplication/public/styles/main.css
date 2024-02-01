@@ -1,0 +1,136 @@
+body{
+    margin: 0;
+    padding: 0;
+    color: white;
+    background-image: url("https://cutewallpaper.org/25/anime-wallpaper-view-back/971221823.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+header{
+    margin-top: 25px;
+}
+.box8{
+    font-size: 2rem;
+    text-align: center;
+    border: solid black 1px;
+    border-radius: 5px;
+    width:60%;
+    background-color: rgba(240, 248, 255, 0.477);
+    margin: 170px auto 0 auto;
+}
+.copyright{
+    text-align: center;
+    margin-top: 50px;
+}
+.head{
+    margin-top: 20px;
+    text-align: center;
+}
+.container1{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    padding: 10px;
+    margin: 0px;
+}
+.container2{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    padding: 0px;
+    margin-top: 0px;
+
+}
+.box2{
+
+    padding: 14px;
+    padding-left: 0px;
+}
+
+.desc{
+    font-size: 1.6rem;
+    font-weight: bold;
+}
+p{
+    margin-bottom: 0px;
+    text-align : left;
+}
+.font{
+    font-size: 5rem;
+    font-weight: bold;
+}
+.size{
+    font-size: 3rem;
+}
+.container3{
+    text-align: center;
+}
+.today{
+    font-size: 1.6rem;
+    
+}
+
+.box6{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+}
+.box7{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    margin-top: 65px;
+
+}
+.box5{
+    color: black !important;
+    border-radius: 10px;
+    border: 1px solid rgb(0, 0, 0);
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    box-shadow:
+    0 2.8px 2.2px rgba(0, 0, 0, 0.034),
+    0 6.7px 5.3px rgba(0, 0, 0, 0.048),
+    0 12.5px 10px rgba(0, 0, 0, 0.06),
+    0 22.3px 17.9px rgba(0, 0, 0, 0.072),
+    0 41.8px 33.4px rgba(0, 0, 0, 0.086),
+    0 100px 80px rgba(0, 0, 0, 0.12);
+    background-color: rgba(250, 250, 250, 0.4);
+
+}
+
+.bold{
+    font-weight: bold;
+    font-size: 1.1rem;
+}
+.container4{
+    margin: 60px auto 0 auto;
+    width: 40%;
+   border-radius: 10px;
+}
+
+.four {
+    padding: 10px 10px 10px 10px;
+    background: transparent;
+    border-radius: 10px;
+    border: 1.5px solid black;
+    margin-top: 10px;
+   color: black;
+}
+.sub-four {
+    display: flex;
+    flex-direction: column;
+    background-color: rgba(240, 248, 255, 0.486);
+}
+
+.sub1,.sub2,.sub3,.sub4,.sub5{
+    display: flex;
+    justify-content: space-between;
+    
+}
+h2,h4{
+    text-align: center;
+}
